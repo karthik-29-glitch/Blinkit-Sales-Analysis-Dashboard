@@ -44,7 +44,6 @@ Recovery afterward
 A donut chart showing:
 Regular
 Low Fat
-LF
 Insight:
 Regular & Low-Fat items contribute almost equally to total sales.
 3. Item Type Performance
